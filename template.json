@@ -1,0 +1,12 @@
+{
+	"Actor": {
+		"types": [
+			"player"
+		]
+	},
+	"Item": {
+		"types": [
+			"someItem"
+		]
+	}
+}

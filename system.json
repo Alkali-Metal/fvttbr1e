@@ -1,0 +1,15 @@
+{
+	"id": "minimum-example",
+	"title": "minimum-example",
+	"description": "",
+	"version": "Example",
+	"compatibility": {
+		"minimum": 12,
+		"verified": 12,
+		"maximum": 12
+	},
+	"authors": [],
+	"esmodules": [
+		"module/main.mjs"
+	]
+}
